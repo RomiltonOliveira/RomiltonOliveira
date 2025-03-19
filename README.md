@@ -13,10 +13,6 @@
 - **Ferramentas de Desenvolvimento:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 - **Metodologias:** ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
 
-## 🚀 Projetos Destacados
-1. **[MySql-ModeloER-E-Commerce](https://github.com/RomiltonOliveira/MySql-ModeloER-E-Commerce)** - Modelagem de um banco de dados para um ecommerce a fim de desenvolver habilidades com SQL. 
-2. **[MySQL-Projeto-Conceitual-Oficina-Mecânica](https://github.com/RomiltonOliveira/MySQL---Projeto-Conceitual---Oficina-Mec-nica)** - Modelagem de um banco de dados para uma oficina mecânica fictícia onde pude desenvolver do zero a modelagem conceitual até o uso de consultas.
-3. **[Relatorio-de-Vendas-Power-BI](https://github.com/RomiltonOliveira/Relatorio-de-Vendas-Power-BI)** - Relatorio de vendas criando com Power Bi para desenvolver habilidades com a ferramenta.
 
 ## 📊 Status GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RomiltonOliveira&show_icons=true&theme=radical)
